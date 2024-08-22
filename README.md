@@ -1,39 +1,37 @@
-# Welcome to My GitHub Profile!
+# Hi there, I'm Thiago Pereira Sousa 👋
+
+Welcome to my GitHub profile! I'm a Computer Science student with a passion for web development, algorithms, and data structures.
 
 ## About Me
 
-Hi there! I'm a passionate Computer Science student with a strong interest in IT and software development. My focus areas include Web Development with JavaScript, TypeScript, React, and Node.js, as well as problem-solving with Algorithms and Data Structures.
+- 💻 **Currently:** Studying Computer Science at [Universidade Federal do Maranhão](https://www.ufma.br)
+- 🌐 **Skills:** JavaScript, TypeScript, React, Node.js, Algorithms & Data Structures
+- 📈 **Goals:** To become a proficient software engineer and contribute to open-source projects
 
-### My Skills
+## Coding Profiles
 
-- **Web Development:** JavaScript, TypeScript, React, Node.js
-- **Algorithms & Data Structures:** Sorting algorithms, searching algorithms, trees, graphs, and dynamic programming
-- **Tools & Technologies:** Git, GitHub, VS Code, Pygame
+Explore my coding profiles to see my problem-solving skills and achievements:
 
-## My Projects
+- [LeetCode Profile](https://leetcode.com/your-username) - Check out my solved problems and rankings.
+- [HackerRank Profile](https://www.hackerrank.com/your-username) - View my certifications and challenges.
 
-Here are some of the projects I've been working on:
+## Achievements
 
-- **[Web Development Projects](https://github.com/username/web-development-projects)**: A collection of my web development projects, including interactive web apps and tools.
-- **[Games and Tools](https://github.com/username/games-and-tools)**: Games and utility tools I have developed, showcasing various programming techniques.
-- **[TypeScript and Frameworks](https://github.com/username/typescript-and-frameworks)**: Projects utilizing TypeScript and various frameworks.
-- **[Algorithms and Data Structures](https://github.com/username/algorithms-and-data-structures)**: Implementations of key algorithms and data structures in multiple languages.
+- **LeetCode:** Solved 100+ problems, ranked in top 20% of users.
+- **HackerRank:** Completed 50+ problems, earned multiple skill certifications.
 
-## How to Get in Touch
+## Projects
 
-Feel free to reach out to me on:
+Here are some of the projects I'm working on:
 
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Email:** your.email@example.com
+- [Web Development Projects](https://github.com/your-username/web-development-projects)
+- [Games and Tools](https://github.com/your-username/games-and-tools)
+- [TypeScript and Frameworks](https://github.com/your-username/typescript-and-frameworks)
+- [Algorithms and Data Structures](https://github.com/your-username/algorithms-and-data-structures)
 
-## Contribution
+Feel free to explore and connect!
 
-I welcome contributions to my projects. If you have suggestions for improvements or new algorithms to add, please open an issue or submit a pull request!
+## Contact
 
-## License
-
-All my projects are licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Thank you for visiting my GitHub profile!
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Twitter](https://twitter.com/your-username)
