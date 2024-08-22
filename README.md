@@ -24,9 +24,8 @@ Here are some of the projects I've been working on:
 Feel free to reach out to me on:
 
 - **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/thiago-pereira-2227a12b8)
-- **LeetCode:** [Your LeetCode Profile](https://leetcode.com/your-profile)
-- **HackerRank:** [Your HackerRank Profile](https://www.hackerrank.com/your-profile)
-- **Email:** your.email@example.com
+- **LeetCode:** [Your LeetCode Profile](https://leetcode.com/u/oZfOAzeUYc/)
+- **Email:** sousa.thp1@gmail.com
 
 ## Contribution 🤝
 
