@@ -10,7 +10,7 @@ I'm a Computer Science student with a passion for software development and probl
 
 ## Featured Project 🌟
 
-**[Project Spotlight](https://github.com/tpsousa/project-spot-light)**  
+**[Project Spotlight](https://github.com/tpsousa/project-spotlight)**  
 Check out my main project where I showcase key work and innovative solutions.
 
 ## Other Projects 🛠️
