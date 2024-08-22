@@ -10,15 +10,15 @@ I'm a Computer Science student with a passion for software development and probl
 
 ## Featured Project 🌟
 
-**[Project Spotlight](https://github.com/username/project-spot-light)**  
+**[Project Spotlight](https://github.com/tpsousa/project-spot-light)**  
 Check out my main project where I showcase key work and innovative solutions.
 
 ## Other Projects 🛠️
 
-- **[Web Development Projects](https://github.com/username/web-development-projects)**
-- **[Games and Tools](https://github.com/username/games-and-tools)**
-- **[TypeScript and Frameworks](https://github.com/username/typescript-and-frameworks)**
-- **[Algorithms and Data Structures](https://github.com/username/algorithms-and-data-structures)**
+- **[Web Development Projects](https://github.com/tpsousa/web-development-projects)**
+- **[Games and Tools](https://github.com/tpsousa/games-and-tools)**
+- **[TypeScript and Frameworks](https://github.com/tpsousa/typescript-and-frameworks)**
+- **[Algorithms and Data Structures](https://github.com/tpsousa/algorithms-and-data-structures)**
 
 ## Get in Touch 📫
 
