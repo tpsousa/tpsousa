@@ -5,7 +5,7 @@ I'm a Computer Science student with a passion for software development and probl
 ## Skills 🚀
 
 - **Languages:** JavaScript, TypeScript, Python
-- **Frameworks & Libraries:** React, Node.js
+- **Frameworks & Libraries:** React, Node.js,sass,boostrap
 - **Tools:** Git, GitHub, VS Code
 
 ## Featured Project 🌟
