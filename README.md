@@ -1,4 +1,5 @@
 # welcome to my github profile 
+I'm a Computer Science student with a passion for software development and problem-solving. I specialize in Web Development and Algorithms. Currently, I am focused on back-end development using Node.js and Express, and learning the basics of SQL. At the moment, I am seeking opportunities to apply my knowledge to real-world projects.
 
 ## Skills 
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=white)
