@@ -29,7 +29,6 @@ Check out my main project where I showcase key work and innovative solutions.
 ## Get in Touch 📫
 
 - **LinkedIn:** [my LinkedIn Profile](https://linkedin.com/in/thiago-pereira-2227a12b8)
-- **LeetCode:** [my LeetCode Profile](https://leetcode.com/u/oZfOAzeUYc/)
 - **Email:** sousa.thp1@gmail.com
 
 ---
