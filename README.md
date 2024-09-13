@@ -24,7 +24,7 @@ Check out my main project where I showcase key work and innovative solutions.
 - **[Web Development Projects](https://github.com/tpsousa/web-development-projects)**
 - **[Games and Tools](https://github.com/tpsousa/games-and-tools)**
 - **[TypeScript and Frameworks](https://github.com/tpsousa/typescript-and-frameworks)**
-- **[Algorithms and Data Structures](https://github.com/tpsousa/algorithms-and-data-structures)**
+- **[Applications using algorithms and data structures](https://github.com/tpsousa/algorithms-and-data-structures)**
 
 ## Get in Touch 📫
 
