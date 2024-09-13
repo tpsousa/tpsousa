@@ -45,8 +45,8 @@ class Thiago extends Developer {
 ## Get in Touch 📫
 
 - **LinkedIn:** [my LinkedIn Profile](https://linkedin.com/in/thiago-pereira-2227a12b8)
-- **Email:** sousa.thp1@gmail.com
+- **Email:** [my email](sousa.thp1@gmail.com)
 
 ---
 
-Thanks for visiting my profile! 😊
+Thanks for visiting my profile! 😊.
