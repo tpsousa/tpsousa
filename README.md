@@ -19,6 +19,34 @@ I'm a Computer Science student with a passion for software development and probl
 **[Project Spotlight](https://github.com/tpsousa/project-spotlight)**  
 Check out my main project where I showcase key work and innovative solutions.
 
+class Thiago extends Developer {
+  constructor() {
+    super();
+    this.name = "Thiago Pereira";
+    this.title = "Back-End Developer in Training";
+    this.languages = ["JavaScript", "TypeScript", "Python", "HTML", "CSS", "Sass"];
+    this.frameworks = ["Node.js", "Express", "Bootstrap"];
+    this.databases = ["SQL"];
+    this.currentFocus = "Back-end development with Node.js and Express";
+    this.learning = ["SQL", "Advanced Back-End Techniques"];
+    this.softSkills = ["Problem-Solving", "Adaptability", "Attention to Detail", "Teamwork"];
+    this.hobbies = ["Coding", "Learning Algorithms", "Playing Video Games"];
+  }
+
+  code() {
+    console.log("Currently building back-end systems with Node.js and Express...");
+  }
+
+  applyKnowledge() {
+    console.log("Looking for opportunities to apply my skills in real-world projects!");
+  }
+}
+
+// Create a new instance of Thiago
+const thiago = new Thiago();
+thiago.code();
+thiago.applyKnowledge();
+
 ## Get in Touch 📫
 
 - **LinkedIn:** [my LinkedIn Profile](https://linkedin.com/in/thiago-pereira-2227a12b8)
