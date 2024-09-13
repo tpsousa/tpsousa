@@ -29,7 +29,7 @@ class Thiago extends Developer {
     this.currentFocus = "Back-end development with Node.js and Express";
     this.learning = ["SQL", "Advanced Back-End Techniques"];
     this.softSkills = ["Problem-Solving", "Adaptability", "Attention to Detail", "Teamwork"];
-    this.hobbies = ["Coding", "Learning Algorithms", "Playing Video Games"];
+    this.hobbies = ["Coding", "Learning Algorithms", "Gym"];
   }
 
   code() {
