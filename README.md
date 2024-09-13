@@ -42,11 +42,6 @@ class Thiago extends Developer {
     console.log("Looking for opportunities to apply my skills in real-world projects!");
   }
 }
-
-// Create a new instance of Thiago
-const thiago = new Thiago();
-thiago.code();
-thiago.applyKnowledge();
 ```
 ## Get in Touch 📫
 
