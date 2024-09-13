@@ -11,7 +11,7 @@ I'm a Computer Science student with a passion for software development and probl
  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
  ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![MySQL](https://simpleicons.org/icons/mysql.svg)
+- ![MySQL](https://simpleicons.org/icons/mysql.svg) MySQL
 
 ## Featured Project 🌟
 
