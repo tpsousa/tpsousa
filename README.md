@@ -30,9 +30,9 @@ class Thiago extends Developer {
     this.title = "Back-End Developer in Training";
     this.languages = ["JavaScript", "TypeScript", "Python", "HTML", "CSS", "Sass"];
     this.frameworks = ["Node.js", "Express", "Bootstrap"];
-    this.databases = ["SQL"];
+    this.databases = ["mySQL"];
     this.currentFocus = "Back-end development with Node.js and Express";
-    this.learning = ["SQL", "Advanced Back-End Techniques"];
+    this.learning = ["mySQL", "Advanced Back-End Techniques"];
     this.softSkills = ["Problem-Solving", "Adaptability", "Attention to Detail", "Teamwork"];
     this.hobbies = ["Coding", "Learning Algorithms", "Gym"];
   }
