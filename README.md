@@ -25,7 +25,7 @@
 class Thiago extends Developer {
   constructor() {
     super();
-    this.name = "Thiago Pereira";
+    this.name = "Thiago Sousa";
     this.title = "Desenvolvedor Back-End em Formação";
     this.learning = ["Técnicas Avançadas de Back-End"];
     this.softSkills = ["Resolução de Problemas", "Adaptabilidade", "Atenção aos Detalhes", "Trabalho em Equipe"];
