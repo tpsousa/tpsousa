@@ -27,11 +27,7 @@ class Thiago extends Developer {
     super();
     this.name = "Thiago Pereira";
     this.title = "Desenvolvedor Back-End em Formação";
-    this.languages = ["JavaScript", "TypeScript", "Python", "HTML", "CSS", "Sass"];
-    this.frameworks = ["Node.js", "Express", "Bootstrap"];
-    this.databases = ["mySQL"];
-    this.currentFocus = "Desenvolvimento Back-End com Node.js e Express";
-    this.learning = ["mySQL", "Técnicas Avançadas de Back-End"];
+    this.learning = ["Técnicas Avançadas de Back-End"];
     this.softSkills = ["Resolução de Problemas", "Adaptabilidade", "Atenção aos Detalhes", "Trabalho em Equipe"];
     this.hobbies = ["Codar", "Aprender Algoritmos", "Academia"];
   }
@@ -44,3 +40,12 @@ class Thiago extends Developer {
     console.log("Buscando oportunidades para aplicar minhas habilidades em projetos reais!");
   }
 }
+````
+
+
+
+## Entre em Contato 📫
+
+- **[LinkedIn](https://linkedin.com/in/thiago-pereira-2227a12b8)**  
+- **Email:** [sousa.thp1@gmail.com](mailto:sousa.thp1@gmail.com)
+
