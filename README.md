@@ -47,6 +47,6 @@ class Thiago extends Developer {
 
 ## Entre em Contato 📫
 
-- **[LinkedIn](https://linkedin.com/in/thiago-pereira-2227a12b8)**  
+- **[LinkedIn](linkedin.com/in/thiago-sousa-2227a12b8)**  
 - **Email:** [sousa.thp1@gmail.com](mailto:sousa.thp1@gmail.com)
 
