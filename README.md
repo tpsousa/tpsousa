@@ -20,7 +20,7 @@
 
 ## Projeto em Destaque 🌟
 
-### acesse meus principais projetos aqui 👉(https://github.com/tpsousa/project-spotlight)[Project Spotlight] --Confira meu principal projeto, onde mostro trabalhos-chave e soluções inovadoras.
+### acesse meus principais projetos aqui 👉(https://github.com/tpsousa/project-spotlight)[Project Spotlight] onde mostro trabalhos-chave e soluções inovadoras.
 
 ```javascript
 class Thiago extends Developer {
