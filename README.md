@@ -37,11 +37,11 @@ class Thiago extends Developer {
   }
 
   code() {
-    console.log("Atualmente construindo sistemas back-end com Node.js e Express...");
+    console.log("Atualmente construindo sistemas back-end com Node,typescript,e SQL");
   }
 
   applyKnowledge() {
-    console.log("Buscando oportunidades para aplicar minhas habilidades em projetos reais!");
+    console.log("Aberto para aplicar minhas habilidades em projetos reais!");
   }
 }
 ````
