@@ -26,16 +26,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </p>
 
-<p>
-# just testing
-<img src="https://img.shields.io/badge/REST%20API-4A90E2?style=for-the-badge&logo=api&logoColor=white" alt="REST API">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
-<img src="https://img.shields.io/badge/WebSocket-1B73E8?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSocket">
-  
-</p>
+
 
 ---
 
