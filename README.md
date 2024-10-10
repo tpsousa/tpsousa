@@ -29,6 +29,7 @@
 
 ## Entre em Contato 📫
 
-- **[LinkedIn](linkedin.com/in/thiago-sousa-2227a12b8)**  
-- **Email:** [sousa.thp1@gmail.com](mailto:sousa.thp1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-sousa-2227a12b8/)](https://www.linkedin.com/in/thiago-sousa-2227a12b8/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:thpdev098@gmail.com)](mailto:thpdev098@gmail.com)
 
