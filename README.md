@@ -1,4 +1,4 @@
-# 👋 <span style="color: #00FFFF; font-family: 'Courier New', Courier, monospace;">Bem-vindo ao meu perfil do GitHub</span> <span style="animation: typing 2s steps(20, end), blink-caret .75s step-end infinite; color: #00FFFF; font-family: 'Courier New', Courier, monospace;">|</span>
+👋 <span style="color: #00FFFF; font-family: 'Courier New', Courier, monospace;">Bem-vindo ao meu perfil do GitHub</span> <span style="animation: typing 2s steps(20, end), blink-caret .75s step-end infinite; color: #00FFFF; font-family: 'Courier New', Courier, monospace;">|</span>
 
 <style>
 @keyframes typing {
