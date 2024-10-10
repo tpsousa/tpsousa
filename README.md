@@ -1,19 +1,7 @@
-👋 <span style="color: #00FFFF; font-family: 'Courier New', Courier, monospace;">Bem-vindo ao meu perfil do GitHub</span> <span style="animation: typing 2s steps(20, end), blink-caret .75s step-end infinite; color: #00FFFF; font-family: 'Courier New', Courier, monospace;">|</span>
-
-<style>
-@keyframes typing {
-  from { width: 0; }
-  to { width: 100%; }
-}
-
-@keyframes blink-caret {
-  from, to { border-color: transparent; }
-  50% { border-color: #00FFFF; }
-}
-</style>
+# 👋 Bem-vindo ao meu perfil do GitHub
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Dark GIF de Boas-vindas" width="300px"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="GIF de Boas-vindas" width="300px"/>
 </p>
 
 ---
@@ -43,7 +31,7 @@
 
 ---
 
-## 🌟 Projeto em Destaque 
+## 🌟 Projeto em Destaque
 
 <p align="center" style="background-color:#1e1e1e; padding: 20px; border-radius: 10px;">
   <a href="https://github.com/tpsousa/project-spotlight">
