@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
- <img src="https://img.shields.io/badge/Halter-4CAF50?style=for-the-badge&logo=weight&logoColor=white" alt="Halter">
+
 
 
 </p>
