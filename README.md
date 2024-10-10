@@ -1,7 +1,7 @@
 <h1 align="center">
-  bem
+[  bem](url)
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FFFFFF&left=true&vCenter=true&width=530&lines=Bem-vindo+ao+meu+perfil+do+GitHub!+ 😊" alt="Bem-vindo ao meu perfil do GitHub">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FFFFFF&left=true&vCenter=true&width=550&lines=Bem-vindo+ao+meu+perfil+do+GitHub!+ 😊" alt="Bem-vindo ao meu perfil do GitHub">
 </h1>
 
 ---
