@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=white&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil+do+GitHub!+👋" alt=" Bem-vindo ao meu perfil do GitHub">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil+do+GitHub!+👋" alt="Bem-vindo ao meu perfil do GitHub">
 </h1>
 
 ---
