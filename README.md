@@ -1,11 +1,11 @@
 <h1 align="center">
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FFFFFF&left=true&vCenter=true&width=555&lines=Bem-vindo+ao+meu+perfil+do+GitHub!+ 😊" alt="Bem-vindo ao meu perfil do GitHub">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FFFFFF&left=true&vCenter=true&width=555&lines=Welcome+to+my+GitHub+profile!+ 😊" alt="Welcome to my GitHub profile">
 </h1>
 
 ---
 
-## 🚀 Habilidades
+## 🚀 Skills
 
 <p align="center" style="background-color:#000; padding: 10px; border-radius: 10px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -24,14 +24,11 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-
-
-
 </p>
 
 ---
 
-## 🌟 Projeto em Destaque
+## 🌟 Featured Project
 
 <p align="center">
   <a href="https://github.com/tpsousa/project-spotlight">
@@ -41,7 +38,7 @@
 
 ---
 
-## 📫 Entre em Contato
+## 📫 Contact Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thiago-sousa-2227a12b8/">
