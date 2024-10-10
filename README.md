@@ -25,27 +25,6 @@
 
 ### acesse meus principais projetos aqui 👉 [Project Spotlight](https://github.com/tpsousa/project-spotlight).
 
-```javascript
-class Thiago extends Developer {
-  constructor() {
-    super();
-    this.name = "Thiago Sousa";
-    this.title = "Desenvolvedor Back-End em Formação";
-    this.learning = ["Técnicas Avançadas de Back-End"];
-    this.softSkills = ["Resolução de Problemas", "Adaptabilidade", "Atenção aos Detalhes", "Trabalho em Equipe"];
-    this.hobbies = ["Codar", "Aprender Algoritmos", "Academia"];
-  }
-
-  code() {
-    console.log("Atualmente construindo sistemas back-end com Node,typescript,e SQL");
-  }
-
-  applyKnowledge() {
-    console.log("Aberto para aplicar minhas habilidades em projetos reais!");
-  }
-}
-````
-
 
 
 ## Entre em Contato 📫
