@@ -8,15 +8,15 @@
 ## 🚀 Habilidades
 
 <p align="center" style="background-color:#000; padding: 10px; border-radius: 10px;">
-<img src="assets/logos/javascript.png" width="32" height="32" alt="JavaScript">
-<img src="assets/logos/typescript.png" width="32" height="32" alt="TypeScript">
-<img src="assets/logos/python.png" width="32" height="32" alt="Python">
-<img src="assets/logos/nodejs.png" width="32" height="32" alt="Node.js">
-<img src="assets/logos/prisma.png" width="32" height="32" alt="Prisma">
-<img src="assets/logos/express.png" width="32" height="32" alt="Express.js">
-<img src="assets/logos/npm.png" width="32" height="32" alt="npm">
-<img src="assets/logos/mysql.png" width="32" height="32" alt="MySQL">
-<img src="assets/logos/postgresql.png" width="32" height="32" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=black" alt="Node.js">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/npm-C1203D?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 
 
   <!-- <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize"> !-->
