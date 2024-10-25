@@ -34,11 +34,11 @@
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Principais Projetos
 
 <p align="center">
-  <a href="https://github.com/tpsousa/project-spotlight">
-    <img src="https://img.shields.io/badge/-Project%20Spotlight-181717?style=for-the-badge&logo=github&logoColor=white" alt="Project Spotlight">
+  <a href="https://github.com/tpsousa/Principais-Projetos">
+    <img src="https://img.shields.io/badge/-Project%20Spotlight-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projetos-Principais">
   </a>
 </p>
 
