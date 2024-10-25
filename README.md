@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Skills
+## 🚀 Habilidades
 
 <p align="center" style="background-color:#000; padding: 10px; border-radius: 10px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
