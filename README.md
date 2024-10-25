@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://github.com/tpsousa/Principais-Projetos">
-    <img src="https://img.shields.io/badge/-Project%20Spotlight-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projetos-Principais">
+    <img src="https://img.shields.io/badge/-Principaist%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projetos-Principais">
   </a>
 </p>
 
