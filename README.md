@@ -44,7 +44,7 @@
 
 ---
 
-## 📫 Contact Me
+## 📫 Meus Contatos
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thiago-sousa-2227a12b8/">
