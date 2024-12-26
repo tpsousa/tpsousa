@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Habilidades
+##
 
 <p align="center" style="background-color:#000; padding: 10px; border-radius: 10px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -32,9 +32,6 @@
 
 
 ---
-
-## 🌟 Principais Projetos
-
 <p align="center">
   <a href="https://github.com/tpsousa/Principais-Projetos">
     <img src="https://img.shields.io/badge/-Principais%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projetos-Principais">
