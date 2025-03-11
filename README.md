@@ -8,15 +8,23 @@
 ##
 
 <p align="center" style="background-color:#000; padding: 10px; border-radius: 10px;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=black" alt="Node.js">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/npm-C1203D?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=javascript&logoColor=F7DF1C" alt="JavaScript" width="50">
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" width="50">
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=python&logoColor=306998" alt="Python" width="50">
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js" width="50">
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" width="50">
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" width="50">
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=npm&logoColor=C1203D" alt="npm" width="50">
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" width="50">
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" width="50">
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML" width="50">
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS" width="50">
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=sass&logoColor=CC6699" alt="Sass" width="50">
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=git&logoColor=F05032" alt="Git" width="50">
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" width="50">
+  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" width="50">
+</p>
+
 
 
   <!-- <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize"> !-->
