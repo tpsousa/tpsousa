@@ -46,7 +46,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" style="border-radius: 50%;">
   </a>
   <a href="mailto:thpdev098@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Gmail" width="50" style="border-radius: 50%;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original-wordmark.svg" alt="Gmail" width="50" style="border-radius: 50%;">
   </a>
 </p>
+
 
