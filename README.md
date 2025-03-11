@@ -31,20 +31,10 @@
 
 <p align="center">
   <a href="https://github.com/tpsousa/Principais-Projetos">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Projetos no GitHub" width="70" style="border-radius: 50%; background-color: #181717; padding: 15px; transition: transform 0.3s ease-in-out;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Projetos no GitHub" width="70" style="border-radius: 50%; background-color: #181717; padding: 15px;">
   </a>
 </p>
 
-<style>
-  a img {
-    opacity: 1; /* Garantir que o ícone não fique transparente */
-  }
-
-  a img:hover {
-    transform: scale(1.2); /* Aumenta o ícone quando passa o mouse */
-    opacity: 1; /* Mantém o ícone totalmente visível mesmo no hover */
-  }
-</style>
 
 
 
