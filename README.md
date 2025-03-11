@@ -30,14 +30,15 @@
 
 
 
----
 <p align="center">
-  <a href="https://github.com/tpsousa/Principais-Projetos">
-    <img src="https://img.shields.io/badge/-Principais%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projetos-Principais">
+  <a href="https://www.linkedin.com/in/thiago-sousa-2227a12b8/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" style="border-radius: 50%;">
+  </a>
+  <a href="mailto:thpdev098@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Gmail_Logo_2023.png" alt="Gmail" width="50" style="border-radius: 50%;">
   </a>
 </p>
 
----
 
 ## 📫 Meus Contatos
 
