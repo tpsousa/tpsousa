@@ -6,24 +6,24 @@
 ---
 
 ##
-
-<p align="center" style="background-color:#000; padding: 10px; border-radius: 10px;">
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=javascript&logoColor=F7DF1C" alt="JavaScript" width="50">
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" width="50">
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=python&logoColor=306998" alt="Python" width="50">
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=node.js&logoColor=339933" alt="Node.js" width="50">
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" width="50">
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" width="50">
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=npm&logoColor=C1203D" alt="npm" width="50">
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" width="50">
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" width="50">
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML" width="50">
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS" width="50">
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=sass&logoColor=CC6699" alt="Sass" width="50">
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=git&logoColor=F05032" alt="Git" width="50">
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" width="50">
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" width="50">
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50">
 </p>
+
 
 
 
