@@ -31,6 +31,7 @@
 
 ---
 <p align="center">
+  acesse meus principais projetos:
   <a href="https://github.com/tpsousa/Principais-Projetos">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Projetos no GitHub" width="50" style="border-radius: 50%; background-color: #181717; padding: 10px;">
   </a>
