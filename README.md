@@ -35,6 +35,18 @@
   </a>
 </p>
 
+<style>
+  a img {
+    opacity: 1; /* Garantir que o ícone não fique transparente */
+  }
+
+  a img:hover {
+    transform: scale(1.2); /* Aumenta o ícone quando passa o mouse */
+    opacity: 1; /* Mantém o ícone totalmente visível mesmo no hover */
+  }
+</style>
+
+
 
 
 
