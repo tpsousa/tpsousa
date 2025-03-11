@@ -37,7 +37,7 @@
 
 <style>
   a img:hover {
-    transform: scale(1.1);
+    transform: scale(1.2); /* Aumenta o ícone quando passa o mouse */
   }
 </style>
 
