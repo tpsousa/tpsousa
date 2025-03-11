@@ -29,15 +29,18 @@
 
 
 
----
 <p align="center">
-  acesse meus principais projetos aqui :  
   <a href="https://github.com/tpsousa/Principais-Projetos">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Projetos no GitHub" width="50" style="border-radius: 50%; background-color: #181717; padding: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Projetos no GitHub" width="70" style="border-radius: 50%; background-color: #181717; padding: 15px; transition: transform 0.3s ease-in-out;">
   </a>
 </p>
 
----
+<style>
+  a img:hover {
+    transform: scale(1.1);
+  }
+</style>
+
 
 
 ## 📫 Meus Contatos
