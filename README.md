@@ -32,7 +32,7 @@
 ---
 <p align="center">
   <a href="https://github.com/tpsousa/Principais-Projetos">
-    <img src="https://img.shields.io/badge/-Principais%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projetos-Principais">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Projetos no GitHub" width="50" style="border-radius: 50%; background-color: #181717; padding: 10px;">
   </a>
 </p>
 
