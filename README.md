@@ -30,11 +30,11 @@
 
 
 <p align="center">
-  Acesse meus principais Projetos aqui : 
   <a href="https://github.com/tpsousa/Principais-Projetos">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Projetos no GitHub" width="70" style="border-radius: 50%; background-color: #181717; padding: 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Projetos no GitHub" width="70" style="border-radius: 50%; background-color: #181717; padding: 15px;">
   </a>
 </p>
+
 
 
 
