@@ -2,7 +2,8 @@
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FFFFFF&left=true&vCenter=true&width=555&lines=Welcome+to+my+GitHub+profile!+ 😊" alt="Welcome to my GitHub profile">
 </h1>
-
+Ola,me chamo Thiago,tenho 19 anos,desde cedo me interessei pela area de t.i,mas especificamente pelo desenvolvimento de software,atualmente sou estudante
+de Ciência da Computação pela Universidade Federal do Maranhão.Estou sempre em busca de novas experiências,especialmente no que diz respeito a algoritmos e criação de software,oque o que me fez despertar um profundo interesse pela área do desenvolvimento back-end.
 ---
 
 ##
