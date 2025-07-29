@@ -1,9 +1,11 @@
 <h1 align="center">
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FFFFFF&left=true&vCenter=true&width=555&lines=Welcome+to+my+GitHub+profile!+ 😊" alt="Welcome to my GitHub profile">
+  Welcome to my GitHub profile! 😊
 </h1>
-Ola,me chamo Thiago,desde cedo me interessei pela area de t.i,mas especificamente pelo desenvolvimento de software,atualmente sou estudante
-de Ciência da Computação pela Universidade Federal do Maranhão.Estou sempre em busca de novas experiências,especialmente no que diz respeito a algoritmos e criação de software,o que me fez despertar um profundo interesse pela área de desenvolvimento back-end.
+
+Olá, me chamo Thiago. Desde cedo me interessei pela área de T.I, mais especificamente pelo desenvolvimento de software. Atualmente, sou estudante
+de Ciência da Computação pela Universidade Federal do Maranhão. Estou sempre em busca de novas experiências, especialmente no que diz respeito a algoritmos e criação de software, o que me fez despertar um profundo interesse pela área de desenvolvimento back-end.
+
 ---
 
 ##
@@ -15,35 +17,15 @@ de Ciência da Computação pela Universidade Federal do Maranhão.Estou sempre 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50">
 </p>
 
-
-
-
-
-
 <p align="center">
-  Acesse Meus Principais Projetos Aqui : 
+  Acesse Meus Principais Projetos Aqui: 
   <a href="https://github.com/tpsousa/Principais-Projetos">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Projetos no GitHub" width="70" style="border-radius: 50%; background-color: #181717; padding: 15px;">
   </a>
 </p>
 
-
-
-
-
-
-
-
 ## Meus Contatos
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thiago-sousa-2227a12b8/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" style="border-radius: 50%;">
-  </a>
-  <a href="mailto:thpdev098@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="50" style="border-radius: 50%;">
-  </a>
-</p>
-
-
-
+    <img src="https://cdn.jsdelivr.net/gh/d
