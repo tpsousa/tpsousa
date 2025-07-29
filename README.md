@@ -34,7 +34,7 @@ de Ciência da Computação pela Universidade Federal do Maranhão.Estou sempre 
 
 
 
-## 📫 Meus Contatos
+## Meus Contatos
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thiago-sousa-2227a12b8/">
