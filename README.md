@@ -28,4 +28,9 @@ de Ciência da Computação pela Universidade Federal do Maranhão. Estou sempre
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thiago-sousa-2227a12b8/">
-    <img src="https://cdn.jsdelivr.net/gh/d
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" style="border-radius: 50%;">
+  </a>
+  <a href="mailto:thpdev098@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="50" style="border-radius: 50%;">
+  </a>
+</p>
