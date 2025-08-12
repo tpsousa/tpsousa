@@ -16,6 +16,10 @@ de Ciência da Computação pela Universidade Federal do Maranhão. Estou sempre
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50">
+  <i class="devicon-redis-plain colored"></i>
+  <i class="iconify" data-icon="skill-icons:selenium"></i>
+  <i class="fa-brands fa-jenkins"></i>
+
 </p>
 
 <p align="center">
