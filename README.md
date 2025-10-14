@@ -3,8 +3,8 @@
   Welcome to my GitHub profile! 😊
 </h1>
 
-Olá, me chamo Thiago. Desde cedo me interessei pela área de T.I, mais especificamente pelo desenvolvimento de software. Atualmente, sou estudante
-de Ciência da Computação pela Universidade Federal do Maranhão. Estou sempre em busca de novas experiências, especialmente no que diz respeito a algoritmos e criação de software, o que me fez despertar um profundo interesse pela área de desenvolvimento back-end.
+Olá, me chamo Thiago. Desde cedo me interessei pela área de T.I, mais especificamente pelo desenvolvimento de software. Atualmente, sou graduando
+em Ciência da Computação pela Universidade Federal do Maranhão. Estou sempre em busca de novas experiências, especialmente no que diz respeito a algoritmos e criação de software, o que me fez despertar um profundo interesse pela área de desenvolvimento back-end.
 
 ---
 
