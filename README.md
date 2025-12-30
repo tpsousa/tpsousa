@@ -1,14 +1,14 @@
 <h1 align="center">
   <br>
-  Welcome to my GitHub profile! 😊
+  Bem-vindo ao meu GitHub! 😊
 </h1>
 
-Olá, me chamo Thiago. Desde cedo me interessei pela área de T.I, mais especificamente pelo desenvolvimento de software. Atualmente, sou graduando
-em Ciência da Computação pela Universidade Federal do Maranhão. Estou sempre em busca de novas experiências, especialmente no que diz respeito a algoritmos e criação de software, o que me fez despertar um profundo interesse pela área de desenvolvimento back-end.
+Olá! Meu nome é **Thiago Sousa**. Sou graduando em **Ciência da Computação** pela Universidade Federal do Maranhão (UFMA) e tenho paixão por **desenvolvimento de software**, especialmente **back-end, algoritmos e criação de sistemas escaláveis**.  
+
+Atualmente, atuo como **professor de programação no Instituto Elotec** e já desenvolvi projetos profissionais e acadêmicos aplicando **Python, Node.js, Java, bancos de dados relacionais e não relacionais, Docker e AWS**. Estou sempre em busca de novas experiências e aprendizado contínuo na área de **back-end, DevOps e cloud**.
 
 ---
 
-##
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50">
@@ -17,17 +17,13 @@ em Ciência da Computação pela Universidade Federal do Maranhão. Estou sempre
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50">
   <img src="https://www.svgrepo.com/show/331300/aws.svg" alt="AWS" width="50">
-
-  >
- 
-
 </p>
 
 <p align="center">
-  Acesse Meus Principais Projetos Aqui: 
+  🔗 Confira meus projetos: <a href="https://portifolio-thiago-sousa.vercel.app/">Portfólio</a> | <a href="https://github.com/tpsousa">GitHub</a>
 </p>
 
-## Meus Contatos
+## Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thiago-sousa-2227a12b8/">
