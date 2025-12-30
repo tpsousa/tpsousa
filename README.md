@@ -10,13 +10,14 @@ Atualmente, atuo como **professor de programação no Instituto Elotec** e já d
 ---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50">
-  <img src="https://www.svgrepo.com/show/331300/aws.svg" alt="AWS" width="50">
+<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="50">
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50">
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50">
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="50">
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50">
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="50">
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="50">
+
 </p>
 
 <p align="center">
