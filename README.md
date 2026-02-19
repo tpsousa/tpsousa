@@ -16,7 +16,7 @@ Tenho experiência com desenvolvimento de APIs, modelagem de banco de dados, aut
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,python,java,mysql,postgres,docker,aws&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,python,mysql,postgres,docker,aws&theme=light" />
 </p>
 
 ---
