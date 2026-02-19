@@ -13,7 +13,6 @@ Atualmente, atuo como **professor de programação no Instituto Elotec** e já d
 <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="50">
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50">
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50">
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="50">
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50">
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="50">
 <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="50">
