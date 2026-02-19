@@ -5,7 +5,7 @@
 
 Olá! Meu nome é **Thiago Sousa**. Sou graduando em **Ciência da Computação** pela Universidade Federal do Maranhão (UFMA) e tenho paixão por **desenvolvimento de software**, especialmente **back-end, algoritmos e criação de sistemas escaláveis**.  
 
-Atualmente, atuo como **professor de programação no Instituto Elotec** e já desenvolvi projetos profissionais e acadêmicos aplicando **Python, Node.js, Java, bancos de dados relacionais e não relacionais, Docker e AWS**. Estou sempre em busca de novas experiências e aprendizado contínuo na área de **back-end, DevOps e cloud**.
+Já desenvolvi projetos profissionais e acadêmicos aplicando **Python, Node.js, Java, bancos de dados relacionais e não relacionais, Docker e AWS**. Estou sempre em busca de novas experiências e aprendizado contínuo na área de **back-end, DevOps e cloud**.
 
 ---
 
@@ -16,7 +16,6 @@ Atualmente, atuo como **professor de programação no Instituto Elotec** e já d
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50">
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="50">
 <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="50">
-
 </p>
 
 <p align="center">
@@ -32,5 +31,4 @@ Atualmente, atuo como **professor de programação no Instituto Elotec** e já d
 <a href="mailto:thpdev098@gmail.com">
   <img src="https://img.icons8.com/color/48/000000/new-post.png" alt="Gmail" width="50" style="border-radius: 50%;">
 </a>
-
 </p>
