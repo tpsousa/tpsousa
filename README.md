@@ -10,12 +10,14 @@ Já desenvolvi projetos profissionais e acadêmicos aplicando **Python, Node.js,
 ---
 
 <p align="center">
-<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="50">
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50">
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50">
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50">
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="50">
-<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
 </p>
 
 <p align="center">
