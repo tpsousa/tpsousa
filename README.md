@@ -1,36 +1,40 @@
 <h1 align="center">
   <br>
-  Bem-vindo ao meu GitHub! 😊
+  Bem-vindo ao meu GitHub.
 </h1>
 
-Olá! Meu nome é **Thiago Sousa**. Sou graduando em **Ciência da Computação** pela Universidade Federal do Maranhão (UFMA) e tenho paixão por **desenvolvimento de software**, especialmente **back-end, algoritmos e criação de sistemas escaláveis**.  
+<p align="center">
+  <strong>Thiago Sousa</strong> • Back-end Developer
+</p>
 
-Já desenvolvi projetos profissionais e acadêmicos aplicando **Python, Node.js, Java, bancos de dados relacionais e não relacionais, Docker e AWS**. Estou sempre em busca de novas experiências e aprendizado contínuo na área de **back-end, DevOps e cloud**.
+---
+
+Sou graduando em **Ciência da Computação** pela Universidade Federal do Maranhão (UFMA) e apaixonado por **engenharia de software**, com foco em **back-end, arquitetura de sistemas e soluções escaláveis**.
+
+Tenho experiência com desenvolvimento de APIs, modelagem de banco de dados, autenticação, containers e cloud computing. Busco constantemente evolução técnica nas áreas de **Back-end, DevOps e infraestrutura**.
 
 ---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,python,java,mysql,postgres,docker,aws&theme=light" />
 </p>
 
+---
+
 <p align="center">
-  🔗 Confira meus projetos: <a href="https://portifolio-thiago-sousa.vercel.app/">Portfólio</a> | <a href="https://github.com/tpsousa">GitHub</a>
+  🔗 <a href="https://portifolio-thiago-sousa.vercel.app/">Portfólio</a> 
+  • 
+  <a href="https://github.com/tpsousa">GitHub</a>
 </p>
 
 ## Contato
 
 <p align="center">
-<a href="https://www.linkedin.com/in/thiago-sousa-2227a12b8/">
-  <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="LinkedIn" width="50" style="border-radius: 50%;">
-</a>
-<a href="mailto:thpdev098@gmail.com">
-  <img src="https://img.icons8.com/color/48/000000/new-post.png" alt="Gmail" width="50" style="border-radius: 50%;">
-</a>
+  <a href="https://www.linkedin.com/in/thiago-sousa-2227a12b8/">
+    LinkedIn
+  </a>
+  •
+  <a href="mailto:thpdev098@gmail.com">
+    Email
+  </a>
 </p>
