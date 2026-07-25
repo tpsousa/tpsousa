@@ -8,7 +8,7 @@
 
 ---
 
-Sou graduando em **Ciência da Computação** pela Universidade Federal do Maranhão (UFMA) e apaixonado por **engenharia de software**, com foco em **Java, arquitetura de sistemas e soluções escaláveis full stack**.
+Sou graduando em **Ciência da Computação** pela Universidade Federal do Maranhão (UFMA) e apaixonado por **engenharia de software**, com foco em **Java,Nodejs,Typescript, arquitetura de sistemas e soluções escaláveis full stack**.
 
 Tenho experiência com desenvolvimento de APIs, modelagem de banco de dados, autenticação, containers e cloud computing. Busco constantemente evolução técnica nas áreas de **Back-end, Front-end e DevOps**.
 
