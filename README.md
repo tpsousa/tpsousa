@@ -40,9 +40,28 @@ Tenho experiência prática construindo APIs REST, modelando bancos de dados, im
 
 ### GitHub
 
+<h2 align="center">📊 GitHub Statistics</h2>
+
 <p align="center">
-  <img src="./profile-summary-card-output/default/3-stats.svg" width="49%" />
-  <img src="./profile-summary-card-output/default/2-most-commit-language.svg" width="49%" />
+  <img
+    src="./profile-summary-card-output/default/3-stats.svg"
+    width="49%"
+  />
+  <img
+    src="./profile-summary-card-output/default/2-most-commit-language.svg"
+    width="49%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="./profile-summary-card-output/default/1-repos-per-language.svg"
+    width="49%"
+  />
+  <img
+    src="./profile-summary-card-output/default/4-productive-time.svg"
+    width="49%"
+  />
 </p>
 ---
 
