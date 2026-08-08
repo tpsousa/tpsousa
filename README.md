@@ -40,11 +40,7 @@ Tenho experiência prática construindo APIs REST, modelando bancos de dados, im
 
 ### GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tpsousa&show_icons=true&theme=default&hide_border=true&title_color=1F5AA8&icon_color=1F5AA8&text_color=333333" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpsousa&layout=compact&hide_border=true&title_color=1F5AA8&text_color=333333&langs_count=8" />
-</p>
-
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=tpsousa&show_icons=true&theme=default&hide_border=true&title_color=1F5AA8&icon_color=1F5AA8&text_color=333333" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpsousa&layout=compact&hide_border=true&title_color=1F5AA8&text_color=333333&langs_count=8" /> </p>
 ---
 
 <p align="center">
