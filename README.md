@@ -15,9 +15,6 @@
 </p>
 
 <!-- ⚠️ Troque SEU_USUARIO pelo seu username do GitHub nos 2 links abaixo -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tpsousa&background=120d07&ring=C8742A&fire=D4B05A&currStreakLabel=D4B05A&sideLabels=D4B05A&currStreakNum=E8DCC0&sideNums=E8DCC0&dates=8A7A5A&stroke=3A2C14&border=3A2C14" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=tpsousa&background=120d07&ring=C8742A&fire=D4B05A&currStreakLabel=D4B05A&sideLabels=D4B05A&currStreakNum=E8DCC0&sideNums=E8DCC0&dates=8A7A5A&stroke=3A2C14&border=3A2C14" width="100%" />
