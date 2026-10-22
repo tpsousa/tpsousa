@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/terminal.svg" alt="thiago@github — terminal profile" width="100%" />
+  <img src="./assets/terminal.svg" alt="tpsousa@github — terminal profile" width="100%" />
 </p>
 
 <p align="center">
