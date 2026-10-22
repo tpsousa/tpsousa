@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tpsousa&bg_color=0d0a06&color=D4B05A&line=C8742A&point=E8DCC0&area=true&area_color=C8742A&hide_border=true&hide_title=true" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=tpsousa&background=120d07&ring=C8742A&fire=D4B05A&currStreakLabel=D4B05A&sideLabels=D4B05A&currStreakNum=E8DCC0&sideNums=E8DCC0&dates=8A7A5A&stroke=3A2C14&border=3A2C14" width="100%" />
 </p>
 
 <h3 align="center">// github stats</h3>
