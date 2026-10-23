@@ -67,8 +67,7 @@
 <rect x="297" y="534" width="255" height="62" rx="6" fill="#0f0a05" stroke="#3a2c14"/><text x="309" y="553" font-size="12" font-weight="bold" fill="#d4b05a">Aether</text><text x="309" y="568" class="m" style="font-size:10px">IDE e interpretador de linguagem script</text>
 <rect x="309" y="574" width="83" height="20" rx="3" fill="#101c2e" stroke="#4a82c9" stroke-opacity=".6"/><text x="350" y="588" text-anchor="middle" class="tg" fill="#4a82c9">Java</text>
 <rect x="400.0" y="574" width="63" height="20" rx="3" fill="#16200f" stroke="#6f9a5a" stroke-opacity=".6"/><text x="431" y="588" text-anchor="middle" class="tg" fill="#6f9a5a">kafka</text>
-<rect x="564" y="534" width="255" height="62" rx="6" fill="#0f0a05" stroke="#3a2c14"/><text x="576" y="553" font-size="12" font-weight="bold" fill="#d4b05a">Agenda médica</text><text x="576" y="568" class="m" style="font-size:10px">react-routes
-Agendamento e consultas clinica medica</text>
+<rect x="564" y="534" width="255" height="62" rx="6" fill="#0f0a05" stroke="#3a2c14"/><text x="576" y="553" font-size="12" font-weight="bold" fill="#d4b05a">Agenda médica</text><text x="576" y="568" class="m" style="font-size:10px">Agendamento e consultas clinica medica</text>
 <rect x="576" y="574" width="50" height="20" rx="3" fill="#0f2428" stroke="#4ab5c9" stroke-opacity=".6"/><text x="601" y="588" text-anchor="middle" class="tg" fill="#4ab5c9">React</text>
 <rect x="633.5" y="574" width="56" height="20" rx="3" fill="#101c2e" stroke="#4a82c9" stroke-opacity=".6"/><text x="662" y="588" text-anchor="middle" class="tg" fill="#4a82c9">Docker</text>
 <text x="30" y="620" class="t" style="fill:#6f9a5a">thiago@github:~/profile $</text><rect class="c" x="205" y="609" width="8" height="14" fill="#d4b05a"/>
