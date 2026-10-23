@@ -61,13 +61,17 @@
 <rect x="122" y="479" width="76" height="20" rx="3" fill="#2a2110" stroke="#d4b05a" stroke-opacity=".6"/><text x="160" y="493" text-anchor="middle" class="tg" fill="#d4b05a">REST APIs</text>
 <rect x="206.3" y="479" width="36" height="20" rx="3" fill="#2a1012" stroke="#c9404a" stroke-opacity=".6"/><text x="224" y="493" text-anchor="middle" class="tg" fill="#c9404a">Git</text>
 <line x1="30" y1="520" x2="395" y2="520" stroke="#3a2c14"/><line x1="455" y1="520" x2="820" y2="520" stroke="#3a2c14"/><text x="425" y="523" text-anchor="middle" class="s">✦ PROJECTS ✦</text>
-<rect x="30" y="534" width="255" height="62" rx="6" fill="#0f0a05" stroke="#3a2c14"/><text x="42" y="553" font-size="12" font-weight="bold" fill="#d4b05a">Projeto 1</text><text x="42" y="568" class="m" style="font-size:10px">Descrição curta do projeto</text>
+<rect x="30" y="534" width="255" height="62" rx="6" fill="#0f0a05" stroke="#3a2c14"/><text x="42" y="553" font-size="12" font-weight="bold" fill="#d4b05a">Pombo</text><text x="42" y="568" class="m" style="font-size:10px">Entrega confiável de webhooks
+[Java] [Kafka] [PostgreSQL]</text>
 <rect x="42" y="574" width="43" height="20" rx="3" fill="#2a1a0c" stroke="#c8742a" stroke-opacity=".6"/><text x="63" y="588" text-anchor="middle" class="tg" fill="#c8742a">Java</text>
 <rect x="92.8" y="574" width="56" height="20" rx="3" fill="#16200f" stroke="#6f9a5a" stroke-opacity=".6"/><text x="121" y="588" text-anchor="middle" class="tg" fill="#6f9a5a">Spring</text>
-<rect x="297" y="534" width="255" height="62" rx="6" fill="#0f0a05" stroke="#3a2c14"/><text x="309" y="553" font-size="12" font-weight="bold" fill="#d4b05a">Projeto 2</text><text x="309" y="568" class="m" style="font-size:10px">Descrição curta do projeto</text>
+<rect x="297" y="534" width="255" height="62" rx="6" fill="#0f0a05" stroke="#3a2c14"/><text x="309" y="553" font-size="12" font-weight="bold" fill="#d4b05a">Aether</text><text x="309" y="568" class="m" style="font-size:10px">IDE e interpretador de linguagem script
+[Java] [Swing] [Visitor] [Facade]</text>
 <rect x="309" y="574" width="83" height="20" rx="3" fill="#101c2e" stroke="#4a82c9" stroke-opacity=".6"/><text x="350" y="588" text-anchor="middle" class="tg" fill="#4a82c9">TypeScript</text>
 <rect x="400.0" y="574" width="63" height="20" rx="3" fill="#16200f" stroke="#6f9a5a" stroke-opacity=".6"/><text x="431" y="588" text-anchor="middle" class="tg" fill="#6f9a5a">Node.js</text>
-<rect x="564" y="534" width="255" height="62" rx="6" fill="#0f0a05" stroke="#3a2c14"/><text x="576" y="553" font-size="12" font-weight="bold" fill="#d4b05a">Projeto 3</text><text x="576" y="568" class="m" style="font-size:10px">Descrição curta do projeto</text>
+<rect x="564" y="534" width="255" height="62" rx="6" fill="#0f0a05" stroke="#3a2c14"/><text x="576" y="553" font-size="12" font-weight="bold" fill="#d4b05a">app catalog</text><text x="576" y="568" class="m" style="font-size:10px">react-routes
+App de despesas com React Router
+[React] [TypeScript] [Tailwind]</text>
 <rect x="576" y="574" width="50" height="20" rx="3" fill="#0f2428" stroke="#4ab5c9" stroke-opacity=".6"/><text x="601" y="588" text-anchor="middle" class="tg" fill="#4ab5c9">React</text>
 <rect x="633.5" y="574" width="56" height="20" rx="3" fill="#101c2e" stroke="#4a82c9" stroke-opacity=".6"/><text x="662" y="588" text-anchor="middle" class="tg" fill="#4a82c9">Docker</text>
 <text x="30" y="620" class="t" style="fill:#6f9a5a">thiago@github:~/profile $</text><rect class="c" x="205" y="609" width="8" height="14" fill="#d4b05a"/>
